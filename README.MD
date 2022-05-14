@@ -43,5 +43,5 @@ requests.rest
 
 See NodeJs docs [Reference](https://nodejs.org/docs/latest-v14.x/api/)<br>
 See ExpressJs docs [Reference](https://expressjs.com/en/5x/api.html)<br>
-See Mongooose docs [Reference](https://mongoosejs.com/docs/)<br>
+See React docs [Reference](https://reactjs.org/docs/create-a-new-react-app.html)<br>
 See ytdl-core [Reference](https://github.com/fent/node-ytdl-core)<br>
