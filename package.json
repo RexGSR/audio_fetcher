@@ -1,0 +1,24 @@
+{
+  "name": "audio-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.5.1",
+    "ytdl-core": "^4.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "scripts": {
+    "start-dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "14.18.2"
+  },
+  "author": "Gaurav",
+  "license": "ISC"
+}
