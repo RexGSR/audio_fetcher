@@ -2,6 +2,6 @@ GET http://localhost:4000/api/v1/videos/get-info?url=https://www.youtube.com/wat
 
 
 #####
-GET http://localhost:4000/api/v1/videos/download
+GET http://localhost:4000/api/v1/videos/download?itag={value}&videoUrl={value}&fileName={value}&length={length}
 
 
